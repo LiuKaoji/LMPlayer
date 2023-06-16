@@ -8,9 +8,9 @@ https://github.com/LiuKaoji/LMPlayer/assets/47659827/9ac6c2bb-afbe-4a12-8f68-ca0
 
 
 ###基础使用
-简单布局
-资源管理 
-JSON解释
-事件监听
-值传递
-第三方控件
+简单布局  
+资源管理   
+JSON解释  
+事件监听  
+值传递  
+第三方控件  
